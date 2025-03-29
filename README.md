@@ -47,7 +47,7 @@ De esta forma el cliente terminara la conexión con el servidor.
 
 Para terminar la ejecución del servidor es muy probable que se tenga que terminar el proceso de la terminal de forma manual. Debido a las restricciones de tiempo de la prueba no se implementó una manera simple de cerrar el servidor, pero esto se puede lograr utilizando la librería de `threading` que ofrece Python.
 
-## Ejemplo
+## Pruebas Manuales (Ejemplo)
 
 **Cliente:**
 
