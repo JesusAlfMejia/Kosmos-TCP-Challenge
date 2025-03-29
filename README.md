@@ -31,7 +31,7 @@ El cliente se conectará al servidor y te pedirá que ingreses un mensaje.
 ### 3. Envía mensajes
 
 - Teclea cualquier mensaje en la terminal del cliente para que se convierta a mayúscula.
-- El servidor recibirá el mensaje y enviará la versión en mayúscula de vuela al cliente.
+- El servidor recibirá el mensaje y enviará la versión en mayúscula de vuelta al cliente.
 
 ### 4. Desconectar el cliente
 
