@@ -70,3 +70,13 @@ Received message "DESCONEXION" from client in port 54032
 Client disconnected from server
 Waiting to connect with a client
 ```
+
+## Pruebas Manuales (Screenshots)
+
+**Cliente:**
+
+![Prueba Cliente](Tests/Prueba%20Cliente.png)
+
+**Servidor:**
+
+![Prueba Servidor](Tests/Prueba%20Servidor.png)
